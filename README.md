@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello , I am Abhishek shah! 👋
 
-<!--
-**ABHISHEKSHAH56/ABHISHEKSHAH56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Du project
+- 🌱 I’m currently learning flutter 
+- 👯 I’m looking to collaborate on Du project
+- 🤔 I’m looking for help with filling the data regaring the du project 
+- 💬 Ask me about web dev 
+- 📫 How to reach me: twitter - @Abhishe46462580
+- 😄 Pronouns: he/bro
+- ⚡ Fun fact: i spend the most of free time on twitter 
+
